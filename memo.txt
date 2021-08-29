@@ -1,0 +1,9 @@
+
+## 2021/08/29 :-
+git commit -a -m "...." =>  git add .
+                            git commit -m "..."
+
+
+docker build -t angular-client:dev .
+docker run -d --name angular-client -p 4200:4200 angular-client:dev
+docker stop angular-client
