@@ -1,3 +1,18 @@
+### memo.txt
+### 2021/08/29 :-
+
+# 2021/09/05 :-
+
+git branch -M main
+git remote remove origin
+git remote add origin https://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@github.com/surin408/angular-client.git
+git push -u origin main
+git push --set-upstream origin master
+
+## 2021/08/31 :-
+docker build --no-cache -t angular-client .
+
+
 
 ## 2021/08/29 :-
 git commit -a -m "...." =>  git add .
