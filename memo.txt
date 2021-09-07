@@ -6,8 +6,15 @@
 git branch -M main
 git remote remove origin
 git remote add origin https://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@github.com/surin408/angular-client.git
+git remote add origin https://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@github.com/surin408/angular-client.git
+
 git push -u origin main
 git push --set-upstream origin master
+
+git remote add origin https://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@github.com/surin408/angular-client.git
+git branch -M main
+git push -u origin main
+
 
 ## 2021/08/31 :-
 docker build --no-cache -t angular-client .
