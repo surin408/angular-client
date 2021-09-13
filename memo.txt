@@ -5,6 +5,10 @@
 git remote remove origin
 git remote add origin https://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@github.com/surin408/angular-client.git
 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
+
+    "start": "ng serve  --host 0.0.0.0",
+    "start": "node server.js",
+
 # 2021/09/05 :-
 
 git branch -M main
