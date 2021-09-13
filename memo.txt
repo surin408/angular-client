@@ -1,6 +1,10 @@
 ### memo.txt
 ### 2021/08/29 :-
 
+# 2021/09/13 :-
+git remote remove origin
+git remote add origin https://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@github.com/surin408/angular-client.git
+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
 # 2021/09/05 :-
 
 git branch -M main
